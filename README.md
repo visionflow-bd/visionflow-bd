@@ -10,7 +10,7 @@ Autonomous Multi-Agent AI Research, RLHF & Speech-to-Speech (S2S) Evaluation, Of
 | Division | Domain | Focus |
 | :--- | :--- | :--- |
 | **Vision Flow Group** | [visionflowgroup.com](https://visionflowgroup.com) | Parent Technology, AI Research & Security Group (Wikidata: `Q141910527`) |
-| **Vision Flow Research Lab** | [jashory.github.io/hqas8-autonomous-agentic-governance](https://jashory.github.io/hqas8-autonomous-agentic-governance/) | HQAS-8 & AMCG-3 Monographs (6 CERN Zenodo DOIs, 3 OSF MetaArXiv Preprints) |
+| **Vision Flow Research Lab** | [jashory.github.io/hqas8-autonomous-agentic-governance](https://jashory.github.io/hqas8-autonomous-agentic-governance/) | HQAS-8 & AMCG-3 Monographs (7 CERN Zenodo DOIs, 3 OSF MetaArXiv Preprints) |
 | **Hugging Face Research Space** | [huggingface.co/spaces/Jashory/vision-flow-research-lab](https://huggingface.co/spaces/Jashory/vision-flow-research-lab) | Interactive AI Governance & Benchmark Hub ([Dataset](https://huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks)) |
 | **Vision Flow Agency** | [agency.visionflowgroup.com](https://agency.visionflowgroup.com) | High-Retention Video Production, AI UGC, Motion Design & Web/App Engineering ([2026 Showreel v4](https://youtu.be/We9zcmsfUIA)) |
 | **Vision Flow Academy** | [academy.visionflowgroup.com](https://academy.visionflowgroup.com) | Digital Production, AI Workflows & Applied Engineering Training |
@@ -28,7 +28,7 @@ Autonomous Multi-Agent AI Research, RLHF & Speech-to-Speech (S2S) Evaluation, Of
 
 - **MD Rafiul Islam Shubho** — *Researcher, AI Evaluator & RLHF / S2S Specialist · Co-Founder & Managing Director (MD)*  
   Bilingual (`bn_BD` / `en_US`) AI Evaluator & SFT Rubric Calibration Auditor (`1,400+` LLM & Speech-to-Speech evaluation tasks, `98.4%` QA rubric precision, Outlier AI contributor network Jan 2026–Present) · EF SET `81/100` C2 Proficient ([`cert.efset.org/qyLFMa`](https://cert.efset.org/qyLFMa)) · Enrolled B.S. CS Candidate, University of the People  
-  [Researcher Dossier](https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html#md-rafiul-islam-shubho) · [Benchmark Co-Author Dataset](https://huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks)
+  ORCID [`0009-0009-9956-4511`](https://orcid.org/0009-0009-9956-4511) · Co-Authored Paper #07 DOI [`10.5281/zenodo.24231337`](https://doi.org/10.5281/zenodo.24231337) · [Researcher Dossier](https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html#md-rafiul-islam-shubho) · [Benchmark Co-Author Dataset](https://huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks)
 
 ---
 
