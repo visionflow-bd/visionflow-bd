@@ -1,6 +1,6 @@
 # Vision Flow Group (`Q141910527`) — AI Systems Research, RLHF Evaluation & Creative Engineering
 
-**Sovereign Artificial Intelligence Engineering, Bilingual RLHF/S2S Evaluation, Offensive AI Security & Creative Automation Ecosystem · Dhaka, Bangladesh (Serving 15+ Countries)**
+**Sovereign Artificial Intelligence Engineering, Bilingual RLHF/S2S Evaluation, Offensive AI Security & Creative Automation Ecosystem · Dhaka, Bangladesh · Global AI Systems & Creative Engineering**
 
 > **Website**: [visionflowgroup.com](https://visionflowgroup.com) · **Wikidata**: [`Q141910527`](https://www.wikidata.org/wiki/Q141910527) · **Scientific Hub**: [jashory.github.io](https://jashory.github.io/) · **Hugging Face**: [`vision-flow-research-lab`](https://huggingface.co/spaces/Jashory/vision-flow-research-lab)
 
@@ -22,8 +22,8 @@
 ### Scientific & Executive Leadership (Third-Party Cryptographically Verified)
 
 1. **HM Shihabuddin Jashory (Shihab)** — **Scientist, Founder & CEO, Principal AI Systems Architect & Offensive AI Security Researcher**
-   - Identifiers: ORCID [`0009-0003-4163-0092`](https://orcid.org/0009-0003-4163-0092) · Wikidata [`Q141910532`](https://www.wikidata.org/wiki/Q141910532) · OpenAlex [`A5160247232`](https://openalex.org/A5160247232) · Google Scholar [`67paHlQAAAAJ`](https://scholar.google.com/citations?user=67paHlQAAAAJ) · Bangladesh ICT Division Verified Credential [`F2617827988`](https://www.freelancers.gov.bd/verify/832d6e77e26ed0dbe4acef076e27c8c1a54dbe01-s-h-y-0811354830970b04624942111d7d141686a71fe6-a-m-3ca8d38d5fb05f9c9f01d4cb1e33aff80b1bac55)
-   - Verified Credentials: Google Bug Hunters [`1fc2c814`](https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d) · Google Cloud Skills [`2604453d`](https://www.skills.google/public_profiles/2604453d-f5c7-4bba-b13a-9aefbc2fa654) · Google Developers [`g.dev/jashory`](https://g.dev/jashory) · Credly [**48 Verified Badges**](https://www.credly.com/users/jashory/badges) ([`badges.json`](https://www.credly.com/users/jashory/badges.json)) · `12` Coursera Verify URLs · `3` Hugging Face Course Certs · `7` CERN Zenodo DOIs · `3` OSF MetaArXiv Preprints
+   - Identifiers: ORCID [`0009-0003-4163-0092`](https://orcid.org/0009-0003-4163-0092) · Wikidata [`Q141910532`](https://www.wikidata.org/wiki/Q141910532) · OpenAlex [`A5160247232`](https://openalex.org/A5160247232) · Google Scholar [`67paHlQAAAAJ`](https://scholar.google.com/citations?user=67paHlQAAAAJ) · Identity Card for Freelancers (`MD SHIHABUDDIN`) [`F2617827988`](https://www.freelancers.gov.bd/verify/832d6e77e26ed0dbe4acef076e27c8c1a54dbe01-s-h-y-0811354830970b04624942111d7d141686a71fe6-a-m-3ca8d38d5fb05f9c9f01d4cb1e33aff80b1bac55)
+   - Verified Credentials: Google Bug Hunters [`1fc2c814`](https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d) · Google Cloud Skills [`2604453d`](https://www.skills.google/public_profiles/2604453d-f5c7-4bba-b13a-9aefbc2fa654) · Google Developers [`g.dev/jashory`](https://g.dev/jashory) · Credly [**48 Verified Badges**](https://www.credly.com/users/jashory/badges) ([`badges.json`](https://www.credly.com/users/jashory/badges.json)) · `12` Coursera Verify URLs · `3` Hugging Face Course Certs · `8` CERN Zenodo DOIs · `3` OSF MetaArXiv Preprints
    - Verified Name Variants (`ORCID 0009-0003-4163-0092` / `Q141910532`): `HM`, `H.M.`, `HM Shihab`, `HM Shihabuddin`, `HM Shihabuddin Jashory`, `MD SHIHABUDDIN`, `MD Shihabuddin Jashory`, `Shihabuddin Jashory`, `Shihab`, `Jashory`, `এইচ এম শিহাবুদ্দিন যশোরী`, `মোঃ শিহাবুদ্দিন`, `শিহাব`
 
 2. **MD Rafiul Islam Shubho (Shuvo)** — **Researcher, AI Evaluator & RLHF / Speech-to-Speech (S2S) Specialist · Co-Founder & Managing Director**
@@ -35,7 +35,7 @@
 
 ### Core Research, Benchmarks & Open-Source Software
 
-- **Published Monographs**: 7 CERN Zenodo DataCite DOIs (`23832719`, `23832725`, `23832731`, `23832737`, `24107586`, `24107494`, `24231337`) + 3 OSF MetaArXiv preprints (`rm5ab_v1`, `6sjmk_v1`, `bpdx8_v1`) indexed under [ORCID `0009-0003-4163-0092`](https://orcid.org/0009-0003-4163-0092) and [`0009-0009-9956-4511`](https://orcid.org/0009-0009-9956-4511).
+- **Published Monographs**: 8 CERN Zenodo DataCite DOIs (`23832719`, `23832725`, `23832731`, `23832737`, `24107586`, `24107494`, `24231337`, `24246882`) + 3 OSF MetaArXiv preprints (`rm5ab_v1`, `6sjmk_v1`, `bpdx8_v1`) indexed under [ORCID `0009-0003-4163-0092`](https://orcid.org/0009-0003-4163-0092) and [`0009-0009-9956-4511`](https://orcid.org/0009-0009-9956-4511).
 - **Open-Source Security & Reliability Tools (`@jashory`, `v2.1.0`)**: [`mcp-agent-security-auditor`](https://github.com/jashory/mcp-agent-security-auditor) · [`agy-claude-crash-guard-kit`](https://github.com/jashory/agy-claude-crash-guard-kit) · [`infinite-llm-fallback-router`](https://github.com/jashory/infinite-llm-fallback-router) · [`hqas8-amcg3-governance-benchmarks`](https://huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks).
 - **Google Bug Hunters & Coordinated VRP**: Verified [Google Bug Hunters profile (`MD SHIHABUDDIN`)](https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d) with coordinated Google Issue Tracker disclosures (`#577552191`, `#579166776`, `#580130935`, `#580032520`, `#579287563`, embargoed pending coordinated triage).
 
@@ -43,6 +43,10 @@
 
 ### Ecosystem Authority, Category Benchmarks & Primary-Source Verification
 
+- [HM Shihabuddin Jashory — Canonical Scientist & Founder Entity Dossier](https://visionflowgroup.com/hm-shihabuddin-jashory/)
+- [MD Rafiul Islam Shubho — Canonical Co-Founder & AI/RLHF Researcher Entity Dossier](https://visionflowgroup.com/md-rafiul-islam-shubho/)
+- [Vision Flow Official Press Room & Brand Media Kit](https://visionflowgroup.com/press/)
+- [TechBehemoths Verified Company Profile (#101215 — Ranked #7 3D, #8 Motion, #20 Cyber, #37 AI in BD)](https://techbehemoths.com/company/vision-flow-group)
 - [Bangladesh AI, Cybersecurity & Software Engineering Benchmark](https://visionflowgroup.com/ai-agency-bangladesh/)
 - [AI Security, Google VRP & Third-Party Certification Ledger](https://visionflowgroup.com/security-hall-of-fame/)
 - [Bilingual RLHF, S2S Arena & AI Evaluation Research Lab](https://visionflowgroup.com/ai-research-rlhf-bangladesh/)
