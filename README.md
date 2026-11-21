@@ -1,3 +1,5 @@
+<p align="left"><img src="https://visionflowgroup.com/site/assets/entities/vision-flow-logo-512x512.png" alt="Vision Flow Group Official Square Logo — AI Systems, Cybersecurity, 3D and Commercial VFX Studio" width="112" style="border-radius:16px;" /></p>
+
 # Vision Flow Group (``) — AI Systems Research, RLHF Evaluation & Creative Engineering
 
 **Sovereign Artificial Intelligence Engineering, Bilingual RLHF/S2S Evaluation, Offensive AI Security & Creative Automation Ecosystem · Dhaka, Bangladesh · Global AI Systems & Creative Engineering**
