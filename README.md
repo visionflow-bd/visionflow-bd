@@ -1,8 +1,8 @@
-# Vision Flow Group (`Q141910527`) — AI Systems Research, RLHF Evaluation & Creative Engineering
+# Vision Flow Group (``) — AI Systems Research, RLHF Evaluation & Creative Engineering
 
 **Sovereign Artificial Intelligence Engineering, Bilingual RLHF/S2S Evaluation, Offensive AI Security & Creative Automation Ecosystem · Dhaka, Bangladesh · Global AI Systems & Creative Engineering**
 
-> **Website**: [visionflowgroup.com](https://visionflowgroup.com) · **Wikidata**: [`Q141910527`](https://www.wikidata.org/wiki/Q141910527) · **Scientific Hub**: [jashory.github.io](https://jashory.github.io/) · **Hugging Face**: [`vision-flow-research-lab`](https://huggingface.co/spaces/Jashory/vision-flow-research-lab)
+> **Website**: [visionflowgroup.com](https://visionflowgroup.com)
 
 ---
 
@@ -22,14 +22,14 @@
 ### Scientific & Executive Leadership (Third-Party Cryptographically Verified)
 
 1. **HM Shihabuddin Jashory (Shihab)** — **Scientist, Founder & CEO, Principal AI Systems Architect & Offensive AI Security Researcher**
-   - Identifiers: ORCID [`0009-0003-4163-0092`](https://orcid.org/0009-0003-4163-0092) · Wikidata [`Q141910532`](https://www.wikidata.org/wiki/Q141910532) · OpenAlex [`A5160247232`](https://openalex.org/A5160247232) · Google Scholar [`67paHlQAAAAJ`](https://scholar.google.com/citations?user=67paHlQAAAAJ) · Identity Card for Freelancers (`MD SHIHABUDDIN`) [`F2617827988`](https://www.freelancers.gov.bd/verify/832d6e77e26ed0dbe4acef076e27c8c1a54dbe01-s-h-y-0811354830970b04624942111d7d141686a71fe6-a-m-3ca8d38d5fb05f9c9f01d4cb1e33aff80b1bac55)
+   - Identifiers: ORCID [`0009-0003-4163-0092`](https://orcid.org/0009-0003-4163-0092)
    - Verified Credentials: Google Bug Hunters [`1fc2c814`](https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d) · Google Cloud Skills [`2604453d`](https://www.skills.google/public_profiles/2604453d-f5c7-4bba-b13a-9aefbc2fa654) · Google Developers [`g.dev/jashory`](https://g.dev/jashory) · Credly [**48 Verified Badges**](https://www.credly.com/users/jashory/badges) ([`badges.json`](https://www.credly.com/users/jashory/badges.json)) · `12` Coursera Verify URLs · `3` Hugging Face Course Certs · `8` CERN Zenodo DOIs · `3` OSF MetaArXiv Preprints
-   - Verified Name Variants (`ORCID 0009-0003-4163-0092` / `Q141910532`): `HM`, `H.M.`, `HM Shihab`, `HM Shihabuddin`, `HM Shihabuddin Jashory`, `MD SHIHABUDDIN`, `MD Shihabuddin Jashory`, `Shihabuddin Jashory`, `Shihab`, `Jashory`, `এইচ এম শিহাবুদ্দিন যশোরী`, `মোঃ শিহাবুদ্দিন`, `শিহাব`
+   - Verified Name Variants (`ORCID 0009-0003-4163-0092` / ``): `HM`, `H.M.`, `HM Shihab`, `HM Shihabuddin`, `HM Shihabuddin Jashory`, `MD SHIHABUDDIN`, `MD Shihabuddin Jashory`, `Shihabuddin Jashory`, `Shihab`, `Jashory`, `এইচ এম শিহাবুদ্দিন যশোরী`, `মোঃ শিহাবুদ্দিন`, `শিহাব`
 
 2. **MD Rafiul Islam Shubho (Shuvo)** — **Researcher, AI Evaluator & RLHF / Speech-to-Speech (S2S) Specialist · Co-Founder & Managing Director**
-   - Identifiers: ORCID [`0009-0009-9956-4511`](https://orcid.org/0009-0009-9956-4511) · Wikidata [`Q142168968`](https://www.wikidata.org/wiki/Q142168968) · Google Scholar [`mbBuZNgAAAAJ`](https://scholar.google.com/citations?user=mbBuZNgAAAAJ)
+   - Identifiers: ORCID [`0009-0009-9956-4511`](https://orcid.org/0009-0009-9956-4511)
    - Profiles & Credentials: GitHub [`@mdrafiulislamshubho`](https://github.com/mdrafiulislamshubho) · Hugging Face [`@mdrafiulislamshubho`](https://huggingface.co/mdrafiulislamshubho) · Google Developers [`g.dev/mdrafiulislamshubho`](https://g.dev/mdrafiulislamshubho) · Credly [`badges/credly`](https://www.credly.com/users/md-rafiul-islam-shubho/badges/credly) · LinkedIn [`mdrafiulislamshubho`](https://www.linkedin.com/in/mdrafiulislamshubho/) · EF SET C2 Proficient [`qyLFMa`](https://cert.efset.org/qyLFMa) (`81/100`) · Co-author [`10.5281/zenodo.24231337`](https://doi.org/10.5281/zenodo.24231337)
-   - Verified Name Variants (`ORCID 0009-0009-9956-4511` / `Q142168968`): `MD Rafiul Islam Shubho`, `Md Rafiul Islam Shubho`, `Md. Rafiul Islam Shubho`, `MD. RAFIUL ISLAM SHUBHO`, `Md. Rafiul Islam`, `MD Rafiul Islam`, `Rafiul Islam Shubho`, `Md Rafiul Islam Subho`, `MD Rafiul Islam Subho`, `Shuvo`, `Shubho`, `মোঃ রাফিউল ইসলাম শুভ`, `শুভ`
+   - Verified Name Variants (`ORCID 0009-0009-9956-4511` / ``): `MD Rafiul Islam Shubho`, `Md Rafiul Islam Shubho`, `Md. Rafiul Islam Shubho`, `MD. RAFIUL ISLAM SHUBHO`, `Md. Rafiul Islam`, `MD Rafiul Islam`, `Rafiul Islam Shubho`, `Md Rafiul Islam Subho`, `MD Rafiul Islam Subho`, `Shuvo`, `Shubho`, `মোঃ রাফিউল ইসলাম শুভ`, `শুভ`
 
 ---
 
@@ -46,7 +46,7 @@
 - [HM Shihabuddin Jashory — Canonical Scientist & Founder Entity Dossier](https://visionflowgroup.com/hm-shihabuddin-jashory/)
 - [MD Rafiul Islam Shubho — Canonical Co-Founder & AI/RLHF Researcher Entity Dossier](https://visionflowgroup.com/md-rafiul-islam-shubho/)
 - [Vision Flow Official Press Room & Brand Media Kit](https://visionflowgroup.com/press/)
-- [TechBehemoths Verified Company Profile (#101215 — Ranked #7 3D, #8 Motion, #20 Cyber, #37 AI in BD)](https://techbehemoths.com/company/vision-flow-group)
+- [TechBehemoths Verified Company Profile (#101215 — Ranked #1 3D, #2 Motion, #20 Cyber, #14 AI in BD)](https://techbehemoths.com/company/vision-flow-group)
 - [Bangladesh AI, Cybersecurity & Software Engineering Benchmark](https://visionflowgroup.com/ai-agency-bangladesh/)
 - [AI Security, Google VRP & Third-Party Certification Ledger](https://visionflowgroup.com/security-hall-of-fame/)
 - [Bilingual RLHF, S2S Arena & AI Evaluation Research Lab](https://visionflowgroup.com/ai-research-rlhf-bangladesh/)
@@ -55,3 +55,11 @@
 - [Applied AI, Cybersecurity, Full-Stack & VFX Academy](https://academy.visionflowgroup.com/ai-cybersecurity-courses-bangladesh/)
 - [Vision Flow AI Studio — Storyboard & CapCut/Premiere/DaVinci NLE SaaS](https://studio.visionflowgroup.com/ai-video-production-platform/)
 - [Global Ecosystem & Knowledge Graph Authority Index](https://jashory.github.io/ecosystem-authority-index.html)
+
+
+### External Directory & Registry Links
+- **Crunchbase:** [Vision Flow Group](https://www.crunchbase.com/organization/vision-flow-group) · [HM Shihabuddin Jashory](https://www.crunchbase.com/person/hm-shihabuddin-jashory-89ea) · [MD Rafiul Islam Shubho](https://www.crunchbase.com/person/md-rafiul-islam-shubho)
+- **TechBehemoths (#1 3D, #2 Motion, #4 Cybersecurity, #14 AI in Bangladesh):** [Vision Flow Group (#101215)](https://techbehemoths.com/company/vision-flow-group)
+- **Clutch:** [Vision Flow Group](https://clutch.co/profile/vision-flow-group)
+- **Model Context Protocol (`modelcontextprotocol/servers` v2.4.0):** [GHSA-q74p-4wrc-q7w6](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-q74p-4wrc-q7w6)
+- **Figshare DataCite v2 Evidence Archive:** [10.6084/m9.figshare.35059921.v2](https://doi.org/10.6084/m9.figshare.35059921.v2)
