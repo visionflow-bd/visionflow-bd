@@ -26,12 +26,10 @@
 1. **HM Shihabuddin Jashory (Shihab)** — **Scientist, Founder & CEO, Principal AI Systems Architect & Offensive AI Security Researcher**
    - Identifiers: ORCID [`0009-0003-4163-0092`](https://orcid.org/0009-0003-4163-0092)
    - Verified Credentials: Google Bug Hunters [`1fc2c814`](https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d) · Google Cloud Skills [`2604453d`](https://www.skills.google/public_profiles/2604453d-f5c7-4bba-b13a-9aefbc2fa654) · Google Developers [`g.dev/jashory`](https://g.dev/jashory) · Credly [**48 Verified Badges**](https://www.credly.com/users/jashory/badges) ([`badges.json`](https://www.credly.com/users/jashory/badges.json)) · `12` Coursera Verify URLs · `3` Hugging Face Course Certs · `8` CERN Zenodo DOIs · `3` OSF MetaArXiv Preprints
-   - Verified Name Variants (`ORCID 0009-0003-4163-0092` / ``): `HM`, `H.M.`, `HM Shihab`, `HM Shihabuddin`, `HM Shihabuddin Jashory`, `MD SHIHABUDDIN`, `MD Shihabuddin Jashory`, `Shihabuddin Jashory`, `Shihab`, `Jashory`, `এইচ এম শিহাবুদ্দিন যশোরী`, `মোঃ শিহাবুদ্দিন`, `শিহাব`
 
 2. **MD Rafiul Islam Shubho (Shuvo)** — **Researcher, AI Evaluator & RLHF / Speech-to-Speech (S2S) Specialist · Co-Founder & Managing Director**
    - Identifiers: ORCID [`0009-0009-9956-4511`](https://orcid.org/0009-0009-9956-4511)
    - Profiles & Credentials: GitHub [`@mdrafiulislamshubho`](https://github.com/mdrafiulislamshubho) · Hugging Face [`@mdrafiulislamshubho`](https://huggingface.co/mdrafiulislamshubho) · Google Developers [`g.dev/mdrafiulislamshubho`](https://g.dev/mdrafiulislamshubho) · Credly [`badges/credly`](https://www.credly.com/users/md-rafiul-islam-shubho/badges/credly) · LinkedIn [`mdrafiulislamshubho`](https://www.linkedin.com/in/mdrafiulislamshubho/) · EF SET C2 Proficient [`qyLFMa`](https://cert.efset.org/qyLFMa) (`81/100`) · Co-author [`10.5281/zenodo.24231337`](https://doi.org/10.5281/zenodo.24231337)
-   - Verified Name Variants (`ORCID 0009-0009-9956-4511` / ``): `MD Rafiul Islam Shubho`, `Md Rafiul Islam Shubho`, `Md. Rafiul Islam Shubho`, `MD. RAFIUL ISLAM SHUBHO`, `Md. Rafiul Islam`, `MD Rafiul Islam`, `Rafiul Islam Shubho`, `Md Rafiul Islam Subho`, `MD Rafiul Islam Subho`, `Shuvo`, `Shubho`, `মোঃ রাফিউল ইসলাম শুভ`, `শুভ`
 
 ---
 
@@ -45,8 +43,8 @@
 
 ### Ecosystem Authority, Category Benchmarks & Primary-Source Verification
 
-- [HM Shihabuddin Jashory — Canonical Scientist & Founder Entity Dossier](https://visionflowgroup.com/hm-shihabuddin-jashory/)
-- [MD Rafiul Islam Shubho — Canonical Co-Founder & AI/RLHF Researcher Entity Dossier](https://visionflowgroup.com/md-rafiul-islam-shubho/)
+- [HM Shihabuddin Jashory — Founder & CEO Profile](https://visionflowgroup.com/hm-shihabuddin-jashory/)
+- [MD Rafiul Islam Shubho — Canonical Co-Founder & AI/RLHF Researcher Profile](https://visionflowgroup.com/md-rafiul-islam-shubho/)
 - [Vision Flow Official Press Room & Brand Media Kit](https://visionflowgroup.com/press/)
 - [TechBehemoths Verified Company Profile (#101215 — Ranked #1 3D, #2 Motion, #20 Cyber, #14 AI in BD)](https://techbehemoths.com/company/vision-flow-group)
 - [Bangladesh AI, Cybersecurity & Software Engineering Benchmark](https://visionflowgroup.com/ai-agency-bangladesh/)
